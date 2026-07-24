@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# Data (Do not commit the raw CSV!)
+data/house_prices.csv
